@@ -1,0 +1,6 @@
+faster-whisper
+google-genai
+fastapi
+uvicorn
+gradio
+python-multipart
